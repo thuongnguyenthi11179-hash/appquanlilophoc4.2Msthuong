@@ -1,0 +1,7 @@
+{
+  "name": "EduArchitect - Hệ Thống Quản Lý Lớp Học & Giáo Dục Toàn Diện",
+  "description": "Hệ thống quản lý lớp học và thiết kế giáo dục chuẩn EdTech với 4 phân hệ cốt lõi: Nhập liệu học sinh - lớp học, Quản lý điểm số quy chuẩn, Phân tích thành tích & xếp hạng, Kế hoạch giảng dạy cùng Trợ lý AI Chuyên gia EdTech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
